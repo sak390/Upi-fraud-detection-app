@@ -1,0 +1,11 @@
+transactionId,senderUpiId,receiverUpiId,amount,timestamp,deviceId,latitude,longitude,city,state,is_fraud
+TXN001,user1@bank1,user2@bank2,5000,2024-01-15 10:30:00,dev123,19.0760,72.8777,Mumbai,Maharashtra,0
+TXN002,user3@bank1,user4@bank3,75000,2024-01-15 11:45:00,dev124,28.6139,77.2090,New Delhi,Delhi,1
+TXN003,user5@bank2,user6@bank1,2500,2024-01-15 14:20:00,dev125,12.9716,77.5946,Bengaluru,Karnataka,0
+TXN004,user7@bank3,user8@bank2,150000,2024-01-15 16:10:00,dev126,22.5726,88.3639,Kolkata,West Bengal,1
+TXN005,user9@bank1,user10@bank3,3500,2024-01-15 18:30:00,dev127,17.3850,78.4867,Hyderabad,Telangana,0
+TXN006,user11@bank2,user12@bank1,80000,2024-01-15 20:15:00,dev128,26.9124,75.7873,Jaipur,Rajasthan,1
+TXN007,user13@bank3,user14@bank2,1200,2024-01-16 09:00:00,dev129,21.1458,79.0882,Nagpur,Maharashtra,0
+TXN008,user15@bank1,user16@bank3,95000,2024-01-16 10:45:00,dev130,23.2599,77.4126,Bhopal,Madhya Pradesh,1
+TXN009,user17@bank2,user18@bank1,4800,2024-01-16 13:20:00,dev131,13.0827,80.2707,Chennai,Tamil Nadu,0
+TXN010,user19@bank3,user20@bank2,200000,2024-01-16 15:30:00,dev132,18.5204,73.8567,Pune,Maharashtra,1
